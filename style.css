@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+header {
+	text-align: center;
+	color: white;
+	padding: 20px;
+	background-color: black;
+}
+
+#city-info {
+	margin: 10px;
+}
+
+.sidebar {
+	background-color: lightgray;
+	padding: 10px;
+}
+
+.daycard {
+	margin: 10px;
+}
+
+body {
+    background: url(2.jpg) center top no-repeat;
+    background-size:cover;
+  }
+
+  h3{
+	color:white;
+  }
+footer
+{
+	text-align: left;
+	color: azure;
+	background-color: black;
+	height: 50px;
+	padding-left: 30px;
+}
+  
